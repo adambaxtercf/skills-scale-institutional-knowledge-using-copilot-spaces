@@ -7,6 +7,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Daily standups (15 min) — focus on progress, blockers, dependencies
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+- Design reviews with UX Designer for user-facing changes
+- Security reviews with Security Lead before major releases
+
+## Role Responsibilities During Execution
+- **Developers**: Implement features, participate in code reviews, write tests
+- **UX Designer**: Participates in design reviews, provides feedback on UI implementation
+- **Business Analyst**: Answers questions, validates requirements during implementation
+- **Support Lead**: Prepares for release, documents known issues and workarounds
+- **Security Lead**: Reviews PRs for security considerations, advises on secure implementation
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done

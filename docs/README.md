@@ -4,7 +4,7 @@
 
 OctoAcme's project management approach delivers customer value through cross-functional teamwork, iterative development, and clear ownership. Projects begin with a structured initiation process—defining business problems, identifying stakeholders, and setting measurable success criteria—to foster transparency and alignment from the start.
 
-Core roles are clearly defined within our organization: Project Managers coordinate delivery and communications, Product Managers prioritize the backlog and maintain product vision, and Developers build, test, and deliver solutions. Accountability and psychological safety are prioritized to encourage learning and continuous feedback throughout the project lifecycle.
+Core roles are clearly defined within our organization: Project Managers coordinate delivery and communications, Product Managers prioritize the backlog and maintain product vision, and Developers build, test, and deliver solutions. Additional specialized roles—UX Designer, Business Analyst, Support Lead, and Security Lead—ensure expertise is available across design, requirements, customer feedback, and security. Accountability and psychological safety are prioritized to encourage learning and continuous feedback throughout the project lifecycle.
 
 ## Key Workflows
 

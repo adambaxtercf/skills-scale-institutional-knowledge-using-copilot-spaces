@@ -15,6 +15,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Engage UX Designer for user-facing features (wireframes, prototypes)
+8. Consult Security Lead for risk register and security requirements
+
+## Role Responsibilities in Planning
+- **Product Manager**: Prioritizes backlog, defines success criteria
+- **Project Manager**: Facilitates kickoff, manages dependencies and timelines
+- **Developers**: Provide effort estimates, identify technical risks
+- **UX Designer**: Delivers wireframes and prototypes, collaborates on acceptance criteria for UI
+- **Business Analyst**: Clarifies requirements, facilitates stakeholder workshops
+- **Security Lead**: Advises on security risks, contributes to risk register
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions.
 
 ## Backlog Item Template
 - Title:
